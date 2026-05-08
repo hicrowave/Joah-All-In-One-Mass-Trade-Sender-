@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Mass Trade Sender
+// @name         Joahs Mass Trade Sender
 // @namespace    https://tampermonkey.net/
 // @version      1.2
-// @description  Send trades to owners of specific items. Smart Target finds users who own multiple items.
+// @description  Send trades to owners of specific items. Smart Target finds users who own multiple items :P
 // @author       extracted from Korone All-In-One
 // @match        *://*.pekora.zip/*
 // @grant        GM_xmlhttpRequest
